@@ -23,7 +23,9 @@ Step 3. Splunk installion
 7. <img width="1060" height="262" alt="image" src="https://github.com/user-attachments/assets/6d12b42a-8370-443f-acb8-4e508008c9a2" />
     run command "sudo dpkg -i splunk-10.2.2....." to finally install splunk.
 
-Step 4.
+Step 4. Opening splunk on target PC
+<img width="1372" height="967" alt="image" src="https://github.com/user-attachments/assets/f6433491-baf6-4dec-83d4-9e0c803afead" />
+
 
 
 
