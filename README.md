@@ -10,5 +10,22 @@ Step 2a. Create a NAT network for the VM's to communicate to each other.
 Step 2b. Set the virtual machines NAT network
 <img width="551" height="265" alt="image" src="https://github.com/user-attachments/assets/acc8d822-fc79-420d-a8cf-517349a07507" />
 
+Step 3. Splunk installion
+1. On the Ubuntu server VM I ran the command "sudo apt-get install virtualbox-guest-additions-iso".
+2. Reboot the machine.
+3. Next ran the command "sudo apt-get install virtualbox-guest-utils".
+4. Reboot the machine again.
+5. Add the user to group "vboxsf"
+   <img width="434" height="81" alt="image" src="https://github.com/user-attachments/assets/92f9b932-1d5e-41df-b4ab-2e3ceb5c5ac0" />
+6. Mounted vboxsf group to the share folder
+   <img width="1087" height="219" alt="image" src="https://github.com/user-attachments/assets/fb448c54-c7e3-4329-ae78-ebef754aeb1f" />
+   VM now has access to host machines shared folder.
+7. <img width="1060" height="262" alt="image" src="https://github.com/user-attachments/assets/6d12b42a-8370-443f-acb8-4e508008c9a2" />
+    run command "sudo dpkg -i splunk-10.2.2....." to finally install splunk.
+
+Step 4.
+
+
+
 
 
