@@ -26,6 +26,16 @@ Step 3. Splunk installion
 Step 4. Opening splunk on target PC
 <img width="1372" height="967" alt="image" src="https://github.com/user-attachments/assets/f6433491-baf6-4dec-83d4-9e0c803afead" />
 
+1. Downloading Sysmon and olaf sysmon configuration.
+   <img width="538" height="173" alt="image" src="https://github.com/user-attachments/assets/8ff7cd37-d93c-430e-a96a-1093eafd1722" /> <img width="395" height="465" alt="image" src="https://github.com/user-attachments/assets/929e4f5e-5ae5-4f6f-8459-2b864e0cb035" />
+
+2. Installation of Sysmon with config
+   <img width="640" height="136" alt="image" src="https://github.com/user-attachments/assets/9549a684-6eff-49d9-aa41-0e5fad2afc9b" />
+3. 
+
+
+   
+
 
 
 
