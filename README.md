@@ -31,7 +31,14 @@ Step 4. Opening splunk on target PC
 
 2. Installation of Sysmon with config
    <img width="640" height="136" alt="image" src="https://github.com/user-attachments/assets/9549a684-6eff-49d9-aa41-0e5fad2afc9b" />
-3. 
+3. Login to Splunk
+   <img width="1005" height="407" alt="image" src="https://github.com/user-attachments/assets/9fd12c6c-d256-4cd6-97ab-3d075c57fb53" />
+4. Configure Splunk to receive data
+   <img width="1012" height="396" alt="image" src="https://github.com/user-attachments/assets/ed2b0616-5baf-4a49-90ec-3b313244a003" />
+   <img width="1001" height="370" alt="image" src="https://github.com/user-attachments/assets/440e92ba-6bc9-4199-a674-9a3659b6183b" />
+5. 
+
+
 
 
    
